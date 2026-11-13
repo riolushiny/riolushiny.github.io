@@ -5,6 +5,7 @@
     <title>Redirecting to github.com/riolushiny/</title>
     <meta http-equiv="refresh" content="0; URL=https://github.com/riolushiny">
     <link href="https://github.com/riolushiny" rel="me">
+    <link href="https://riolushiny.github.io/" rel="me">
     <link href="https://woof.tech/@riolu" rel="me">
   </head>
   <body style="margin: 0; padding: 0">
